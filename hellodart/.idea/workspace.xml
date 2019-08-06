@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d6cb38-aaf6-4f8e-b8ad-c82b2c474c84" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="collections.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/collections.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enum.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/enum.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/functions.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oop.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/oop.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typedef.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/typedef.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hellodart.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/hellodart.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analysis_options.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis_options.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pubspec.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../RTI/crm-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../RTI/development-kit" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/dataTypes.dart" />
+        <option value="$PROJECT_DIR$/bin/variables.dart" />
+        <option value="$PROJECT_DIR$/bin/operators.dart" />
+        <option value="$PROJECT_DIR$/bin/loops.dart" />
+        <option value="$PROJECT_DIR$/bin/condition.dart" />
+        <option value="$PROJECT_DIR$/bin/strings.dart" />
+        <option value="$PROJECT_DIR$/bin/collections.dart" />
+        <option value="$PROJECT_DIR$/bin/enum.dart" />
+        <option value="$PROJECT_DIR$/bin/functions.dart" />
+        <option value="$PROJECT_DIR$/bin/oop.dart" />
+        <option value="$PROJECT_DIR$/bin/typedef.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1920" />
+    <option name="y" value="-377" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hellodart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellodart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellodart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellodart" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellodart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellodart" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d6cb38-aaf6-4f8e-b8ad-c82b2c474c84" name="Default" comment="" />
+      <created>1564948894001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564948894001</updated>
+      <workItem from="1564948905936" duration="10452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10452000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-377" width="1920" height="1177" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.32956383" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23345935" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" />
+      <window_info anchor="bottom" id="Messages" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289225" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="IntelliGuard" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32986766" />
+      <window_info anchor="right" id="Panda" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Panda Executor" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellodart.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../flutter/bin/cache/dart-sdk/lib/core/string.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="240" column="6" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/variables.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dataTypes.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/operators.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/loops.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/condition.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/strings.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../flutter/bin/cache/dart-sdk/lib/collection/collection.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../flutter/bin/cache/dart-sdk/lib/collection/linked_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/collections.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/enum.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/functions.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis_options.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/oop.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/typedef.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hellodart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
