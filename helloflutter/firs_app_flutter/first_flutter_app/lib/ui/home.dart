@@ -1,3 +1,4 @@
+import 'package:first_flutter_app/ui/welcome.dart';
 import 'package:flutter/material.dart';
 
 
@@ -10,6 +11,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.red,
         centerTitle: true,
       ),
+      body: Welcome(),
     );
   }
 }
