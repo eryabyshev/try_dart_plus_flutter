@@ -25,6 +25,48 @@ class Home extends StatelessWidget {
           )
         ],
       ),
+      backgroundColor: Colors.blueGrey,
+      body: Container(
+        alignment: Alignment.center,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.start,
+          children: <Widget>[
+            Text(
+              "Bonni",
+              style: TextStyle(
+                fontSize: 14.5,
+                fontWeight: FontWeight.w400,
+                color: Colors.red
+              ),
+            ),
+            InkWell(
+              child: Text(
+                "Button",
+              ),
+              onTap: () => debugPrint("press on InkWell element"),
+            )
+          ],
+        ),
+      ),
+
+      bottomNavigationBar: BottomNavigationBar(
+          items: [
+            BottomNavigationBarItem(
+              icon: Icon(Icons.add),
+              title: Text("Say")
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.print),
+              title: Text("Print")
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.call_missed),
+              title: Text("Missi")
+            )
+          ],
+        onTap: (int i) => debugPrint("$i")
+      ),
+
     );
   }
   
