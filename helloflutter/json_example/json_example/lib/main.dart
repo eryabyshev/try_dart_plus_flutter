@@ -1,13 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'dart:io';
-
+import 'dart:convert';
 
 
 main() async {
 
   var _data = await getJson();
-  print("${_data}");
+
   runApp(
       MaterialApp(
         title: "JSON example",
@@ -16,17 +15,18 @@ main() async {
             title: Text("JSON example"),
             backgroundColor: Colors.orangeAccent,
           ),
+          body: Text(_data[0]["body"]),
         ),
       )
   );
 }
 
-Future<String> getJson() async {
+Future<List> getJson() async {
   final response =
-  await http.get('https://jsonplaceholder.typicode.com/posts/1');
+  await http.get('https://jsonplaceholder.typicode.com/posts');
   if (response.statusCode == 200) {
     // If server returns an OK response, parse the JSON.
-    return response.body;
+    return json.decode(response.body);
   } else {
     // If that response was not OK, throw an error.
     throw Exception('Failed to load post');
