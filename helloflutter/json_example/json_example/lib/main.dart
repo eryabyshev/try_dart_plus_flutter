@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 main() async {
-  var _data = await getJson();
+  List _data = await getJson();
 
   runApp(MaterialApp(
       title: "JSON example",
@@ -24,11 +24,28 @@ main() async {
                     leading: CircleAvatar(
                       child: Icon(Icons.print, color: Colors.orangeAccent),
                     ),
+                    onTap: () => showTabMenu(context, position, _data),
                   )
                 ],
               );
             }),
       )));
+}
+
+void showTabMenu(BuildContext context, int position, List data) {
+  var alertDialog = new AlertDialog(
+    title: Text("${data[position]["title"]}"),
+    actions: <Widget>[
+      FlatButton(
+        child: Text("OK"),
+        onPressed: () => Navigator.of(context).pop()
+      )
+    ],
+  );
+  showDialog(context: context,
+      builder: (BuildContext context) {
+      return alertDialog;
+  });
 }
 
 Future<List> getJson() async {
