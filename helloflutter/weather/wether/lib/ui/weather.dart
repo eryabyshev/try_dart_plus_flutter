@@ -24,12 +24,7 @@ class _WeatherState extends State<Weather> {
     return json.decode(response.body);
   }
 
-  void showStuff() async {
-    await getWeather(util.apiId,_city).then(_updateTemperature);
-  }
-
   _updateCity(Map result) {
-
     if(result['new_city'].toString().isEmpty) {
       return;
     }
@@ -38,13 +33,26 @@ class _WeatherState extends State<Weather> {
     });
   }
 
-  _updateTemperature(var responce) {
-    if(responce != null) {
-      setState(() {
-        _temeratureNow = responce["main"]["temp"];
-      });
-    }
+  Widget _updateTemperature(String city) {
+    return FutureBuilder(
+      future: getWeather(util.apiId, city),
+      builder: (BuildContext context, AsyncSnapshot<Map> snapshot) {
+        if(snapshot.hasData) {
+          Map content = snapshot.data;
+          if (content["cod"] == 200) {
+            return Container(
+              alignment: Alignment.bottomLeft,
+              child: Text("${content["main"]["temp"].toString()} C",
+                  style: getWeatherStyle()),
+              margin: EdgeInsets.fromLTRB(50, 0, 0, 100),
+            );
+          }
+        }
+        return Container();
+      },
+    );
   }
+
 
   Future _goToChangeCity(BuildContext context) async{
     await Navigator.of(context).push(
@@ -69,9 +77,6 @@ class _WeatherState extends State<Weather> {
         actions: <Widget>[
           new IconButton(icon: Icon(Icons.menu),
               onPressed: () => _goToChangeCity(context)
-          ),
-          new IconButton(icon: Icon(Icons.update),
-              onPressed: () => showStuff()
           ),
         ],
       ),
@@ -98,11 +103,7 @@ class _WeatherState extends State<Weather> {
             child: Image.asset("images/light_rain.png"),
           ),
 
-          Container(
-            alignment: Alignment.bottomLeft,
-            child: Text("${_temeratureNow} C", style: getWeatherStyle()),
-            margin: EdgeInsets.fromLTRB(50, 0, 0, 100),
-          )
+          _updateTemperature(_city)
         ],
       ),
 
